@@ -36,3 +36,5 @@
 ### 2.3 More about Data Source
 Caculated from Google [BigQuery Ethereum dataset token](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) transfers table. 
 
+
+<!-- Auto-update: 2025-10-06T10:16:51.919888 -->
